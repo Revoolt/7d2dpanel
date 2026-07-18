@@ -15,7 +15,7 @@
 
 <eihwaz.de>
 	<entry>
-		<link>http://54.36.121.139:8080/legacymap/index.html</link> 
+		<link>https://app.refugegaming.org/s/distopiaz/map</link> 
 		<!-- leave the rest unchanged -->
 		<date>2024-01-01 12:00:00Z</date>
 		<title>Server Panel Deluxe</title>
