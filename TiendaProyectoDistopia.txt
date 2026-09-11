@@ -1,9 +1,10 @@
-<refugebot>
-<entry>
-<link>https://refugebot.com/s/proyecto-distopia/shop</link>
-<date>2026-09-11 17:47:48Z</date>
-<title>Refuge Web Shop</title>
-<text>Open the player shop in your browser.</text>
-<imagerelpath/>
-</entry>
-</refugebot>
+<?xml version="1.0" encoding="UTF-8"?>
+<eihwaz.de>
+  <entry>
+    <link>https://refugebot.com/s/proyecto-distopia/shop</link>
+    <date>2024-01-01 12:00:00Z</date>
+    <title>Server Panel Deluxe</title>
+    <text></text>
+    <imagerelpath></imagerelpath>
+  </entry>
+</eihwaz.de>
