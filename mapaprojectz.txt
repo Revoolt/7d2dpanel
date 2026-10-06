@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eihwaz.de>
+  <entry>
+    <link>https://refugebot.com/s/distopiaz/map</link>
+    <date>2026-10-06 12:00:00Z</date>
+    <title>Mapa Project Z</title>
+    <text></text>
+    <imagerelpath></imagerelpath>
+  </entry>
+</eihwaz.de>
